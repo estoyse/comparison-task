@@ -4,6 +4,8 @@ A single-page product comparison app built with React 19, TypeScript, Vite, and 
 
 > **Note:** All product data is hardcoded in `src/data/data.ts` and `src/data/laptops.ts`. There is no external API or backend — the app ships with 22 phones and 4 laptops built in.
 
+Inspired by [versus.com](https://versus.com) — the idea of comparing products side-by-side across detailed spec categories.
+
 ## Tech Stack
 
 | Layer     | Technology                           |
